@@ -33,7 +33,7 @@
     "webpack-syntax-resolver-plugin": "0.0.1"
   },
   "dependencies": {
-    "@babel/runtime-corejs3": "7.7.2",
+    "@babel/runtime-corejs3": "7.12.5",
     "core-js": "3.4.1",
     "hooked-form": "3.2.0",
     "native-url": "^0.2.1",
