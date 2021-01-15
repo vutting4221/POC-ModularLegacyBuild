@@ -37,7 +37,7 @@
     "core-js": "3.4.1",
     "hooked-form": "3.2.0",
     "native-url": "^0.2.1",
-    "preact": "next",
+    "preact": "10.5.7",
     "whatwg-fetch": "3.0.0"
   }
 }
