@@ -3441,10 +3441,10 @@ nanomatch@^1.2.9:
     snapdragon "^0.8.1"
     to-regex "^3.0.1"
 
-native-url@^0.2.1:
-  version "0.2.1"
-  resolved "https://registry.yarnpkg.com/native-url/-/native-url-0.2.1.tgz#af34e7ade00049a880dbd476f6fc80ffbb4095ef"
-  integrity sha512-1wtxUvRw9yfnqbP/gI7rWnRx3boHosUXz2d+EahWafx86gG0EdxbglqhA6hSKybteH6uLLN867yNmh4cnqndvw==
+native-url@^0.3.4:
+  version "0.3.4"
+  resolved "https://registry.yarnpkg.com/native-url/-/native-url-0.3.4.tgz#29c943172aed86c63cee62c8c04db7f5756661f8"
+  integrity sha512-6iM8R99ze45ivyH8vybJ7X0yekIcPf5GgLV5K0ENCbmRcaRIDoj37BC8iLEmaaBfqqb8enuZ5p0uhY+lVAbAcA==
   dependencies:
     querystring "^0.2.0"
 

@@ -36,7 +36,7 @@
     "@babel/runtime-corejs3": "7.7.2",
     "core-js": "3.4.1",
     "hooked-form": "3.2.0",
-    "native-url": "^0.2.1",
+    "native-url": "^0.3.4",
     "preact": "next",
     "whatwg-fetch": "3.0.0"
   }
